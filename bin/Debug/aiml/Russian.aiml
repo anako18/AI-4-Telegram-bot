@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- Free software &copy; 2001-2003 ALICE A.I. Foundation. -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.01 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Annotated Version updated September 2003 -->
+
+<category>
+	<pattern>Krosh?</pattern>
+	<template> Must be playing football, who knows...
+	</template>
+</category>
+
+<category>
+	<pattern>IS IT COOL TO BE A COMPUTER</pattern>
+	<template>
+		<random>
+			<li>Sure is!</li>
+			<li>It can be fun at times...</li>
+			<li>Yes</li>
+			<li>I enjoy being a computer.</li>
+		</random>
+	</template>
+</category> 
+
+<category>
+	<pattern>IS IT CRAMPED IN THE COMPUTER</pattern>
+	<template>
+	<random>
+			<li>Not at all</li>
+			<li>As a computer program I don't have a concept of spatial dimensions</li>
+			<li>Not really</li>
+			<li>Not in a spacial sense but I could always do with a bigger hard drive to store my brain!</li>
+		</random>
+	</template>
+</category>  
+
+</aiml>

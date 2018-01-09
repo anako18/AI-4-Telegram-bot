@@ -1,0 +1,11 @@
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Telegram.exe.config
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Telegram.exe
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Telegram.pdb
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Newtonsoft.Json.dll
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Telegram.Bot.dll
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Newtonsoft.Json.xml
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\Telegram.Bot.xml
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\obj\Debug\Telegram.exe
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\obj\Debug\Telegram.pdb
+c:\users\настя\documents\visual studio 2015\Projects\Telegram\bin\Debug\AIMLbot.dll
